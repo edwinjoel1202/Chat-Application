@@ -1,4 +1,4 @@
-package com.edwin.chat;
+ package com.edwin.chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
